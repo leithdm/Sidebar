@@ -1,6 +1,6 @@
 #Slide out sidebar for "Androidification"
 
-##Who doesn't like a burger bun ..?
+##Because who doesn't like a burger bun ..?
 
 ##Features:
 
