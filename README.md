@@ -2,6 +2,12 @@
 
 ##Because who doesn't like a burger bun ..?
 
+##Installation
+
+- Clone the GitHub repository and open in Xcode
+
+`git clone https://github.com/leithdm/Sidebar`
+
 ##Features:
 
 - Useful template for displaying left side-bar menu linked to 2 child view controllers
@@ -12,3 +18,7 @@
 
 ##Future Work:
 -  include a right hand side-bar
+
+##Contributing
+
+- All contributions are welcome!
